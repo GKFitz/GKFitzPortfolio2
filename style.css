@@ -49,6 +49,7 @@ main > * {
     text-align:center;
 } 
 header {
+    background-image: url("hw2-images/gkfhw02_portfolio_halfdome.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,3 +61,5 @@ header img {
     border-radius: 50%;
     object-fit: cover;
 }
+
+
