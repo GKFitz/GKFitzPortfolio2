@@ -9,7 +9,7 @@ body > nav {
     justify-content: space-between;
     padding:20px;
     position: fixed;
-    background-color: rgba(0, 119, 255, 0.486);
+    background-color: rgba(0, 119, 255, 0.363);
     left: 0;
     right:0;
  
@@ -60,6 +60,16 @@ header img {
     height: 300px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+main p {
+    text-align: left;
+    font-size: 1.2em;
+    line-height:1.5em;
+    /* if this was not here the para would be on the left:font-size:
+    Central column */
+    margin: 0 auto;
+    max-width: 650px;
 }
 
 
