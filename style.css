@@ -40,9 +40,9 @@ nav section a {
     font-family: sans-serif;
 }
 
-nav section a:hover{
+/* nav section a:hover{
     color: whitesmoke;
-}
+} */
 
 main > * {
     min-height: 100vh;
@@ -62,6 +62,19 @@ header img {
     height: 300px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+header figcaption {
+    font-size: 40px;
+    background-color: rgba(255,255,255,0.75);
+}
+header figcaption:first-of-type {
+    padding: 10px 10px 0;
+    border-radius: 15px 15px 0 0;
+}
+header figcaption:last-of-type {
+    padding: 0 10px 10px;
+    border-radius: 0 0 15px 15px;
 }
 
 main p {
