@@ -9,7 +9,7 @@ body > nav {
     justify-content: space-between;
     padding:20px;
     position: fixed;
-    background-color: rgba(0, 119, 255, 0.363);
+    background-color: rgba(0, 119, 255, 0.021);
     left: 0;
     right:0;
  
@@ -72,4 +72,7 @@ main p {
     max-width: 650px;
 }
 
-
+#myWork img {
+    width:100%;
+    
+} 
