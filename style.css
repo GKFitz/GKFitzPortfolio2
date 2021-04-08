@@ -1,0 +1,17 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+}
+
+body > nav {
+    
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+    position: fixed;
+    background-color: rgba(0, 119, 255, 0.486);
+    left: 0;
+    right:0;
+ 
+}
+
