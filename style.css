@@ -1,6 +1,7 @@
 body {
-    margin:0;
+    margin: 0;
     font-family: sans-serif;
+    background-color: whitesmoke;
 }
 
 body > nav {
@@ -9,7 +10,7 @@ body > nav {
     justify-content: space-between;
     padding:20px;
     position: fixed;
-    background-color: rgba(0, 119, 255, 0.021);
+    background-color: rgba(0, 119, 255, 0.116);
     left: 0;
     right:0;
  
@@ -47,6 +48,7 @@ main > * {
     min-height: 100vh;
     padding-top: 100px;
     text-align:center;
+    
 } 
 header {
     background-image: url("hw2-images/gkfhw02_portfolio_halfdome.jpg");
@@ -70,6 +72,13 @@ main p {
     Central column */
     margin: 0 auto;
     max-width: 650px;
+}
+
+#myWork figure {
+    width:200px;
+    display: inline-block;
+    margin:10px;
+    vertical-align: top;
 }
 
 #myWork img {
