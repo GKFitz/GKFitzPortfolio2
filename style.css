@@ -52,6 +52,7 @@ main > * {
 } 
 header {
     background-image: url("hw2-images/gkfhw02_portfolio_halfdome.jpg");
+    background-size:cover;
     display: flex;
     justify-content: center;
     align-items: center;
