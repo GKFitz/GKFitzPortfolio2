@@ -19,14 +19,15 @@ body > nav {
 
 h1 {
     margin:0;
+    font-weight: bolder;
     
 }
+
 nav a {
     color: black;
     transition: 0.5s;
     font-family:cursive;
     font-size: larger;
-
 }
 nav a:hover {
     color: blue;
@@ -39,11 +40,10 @@ nav section a {
     color: black;
     transition: 0.5s;
     font-family: sans-serif;
+    font-weight: bold;
 }
 
-/* nav section a:hover{
-    color: whitesmoke;
-} */
+
 
 main > * {
     min-height: 100vh;
@@ -101,6 +101,12 @@ main p {
     
 } 
 
+#myWork nav {
+    font-family: sans-serif;
+}
+#myWork a {
+    font-family: sans-serif;
+}
 p {
     text-align: center;
     margin: 0 auto;
@@ -232,16 +238,24 @@ p {
 .fa-linkedin {
     background: #007bb5;
     color: white;
+    /* height: 1.5rem;
+    width: 2rem; */
+
+
 }
 
 .fa-instagram {
     background: #125688;
     color: white;
+    : 33%;
 }
 
 .git {
     background-color: blueviolet;
     color: white;
+    /* font-size: large; */
+    /* height: 1rem;
+    width: 1rem; */
 
 }
   
