@@ -122,4 +122,17 @@ p {
 
 footer {
     background-color: cornflowerblue;
+    min-height: 0vh;
+    width:100%;
+    height:10px;
 }
+
+/* .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ } */
