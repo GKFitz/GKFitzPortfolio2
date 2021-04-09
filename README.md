@@ -9,6 +9,7 @@ This is a redo of my portfolio site.
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ##Screenshot
+![image](https://user-images.githubusercontent.com/73301331/114124450-7fcab300-98c2-11eb-81fc-6157053c2dd3.png)
 
 ## Table of Contents
 * [Description](#Description)
@@ -22,9 +23,8 @@ This is a redo of my portfolio site.
 ## Installation Instruction
 HTML and CSS.
 
-##Usage 
-
-
+##Usage
+For Viewing Only
 
 ## Contributors
 none
